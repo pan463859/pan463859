@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**pan463859/pan463859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mikeygithub/mikeygithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Mikey's github stats](https://github-readme-stats.vercel.app/api?username=pan463859&theme=vue&show_icons=true)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehco1996&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)-->
+
